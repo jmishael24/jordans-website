@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-900">
       {/* Hero Section */}
-      <section className="relative bg-cover bg-center h-screen" style={{ backgroundImage: 'url(/Users/jmishael/Desktop/jordans-website/public/images/headshot1.jpg)' }}>
+      <section className="relative bg-cover bg-center h-screen" style={{ backgroundImage: 'url(/images/headshot1.jpg)' }}>
         <div className="absolute inset-0 bg-black opacity-40"></div>
         <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-4">
           <h1 className="text-6xl font-bold text-white">Jordan Mishael</h1>
